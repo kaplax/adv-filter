@@ -1,0 +1,26 @@
+{
+  "name": "adv-filter-selector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rspack serve",
+    "dev": "turbo-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^5.11.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@kapla_x/turbo-builder": "0.0.1-beta.8",
+    "@preact/signals-react": "^1.2.2",
+    "@rspack/cli": "^0.3.14",
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "typescript": "^5.2.2"
+  }
+}
